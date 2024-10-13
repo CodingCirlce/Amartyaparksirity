@@ -755,6 +755,7 @@ body.lb-disable-scrolling {
   opacity: 1;
 }
 
+ 
 .image2-container {
   display: flex;
   justify-content: center;
@@ -781,4 +782,5 @@ body.lb-disable-scrolling {
   max-width: 100%;
   height: auto; /* Maintain aspect ratio */
   border-radius: 8px; /* Optional: adds rounded corners */
-}
+} 
+
